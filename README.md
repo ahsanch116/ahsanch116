@@ -31,10 +31,10 @@ based in Germany, with a background in electrical and naval communication system
 
 **What I build most:**
 
-- 🌐 Scalable systems on hybrid cloud architectures
-- ⚡ Performance-efficient system designs
-- 📊 AI-based observability platforms
-- 🧩 WebAssembly workload plugins on Kubernetes
+- Scalable systems on hybrid cloud architectures
+- Performance-efficient system designs
+- AI-based observability platforms
+- WebAssembly workload plugins on Kubernetes
 
 ---
 
